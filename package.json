@@ -1,0 +1,28 @@
+{
+  "name": "27.4_redux-reducer",
+  "version": "1.0.0",
+  "description": "Redux-reducer",
+  "main": "index.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/27.4_Redux-reducer.git"
+  },
+  "keywords": [
+    "Redux",
+    "Reducer",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/27.4_Redux-reducer/issues"
+  },
+  "homepage": "https://github.com/krollukasz/27.4_Redux-reducer#readme"
+}
